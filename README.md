@@ -2,9 +2,7 @@
 
 <!--
 **00AR/00AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi There :wave:
-
+-->
 ### Software Engineer
 
 :office: - I am a final Year student pursuing a Masters in Computer Applications.<br>
