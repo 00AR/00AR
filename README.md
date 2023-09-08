@@ -8,7 +8,7 @@
 :office: - I am a final Year student pursuing a Masters in Computer Applications.<br>
 :crab: - I am presently learning about compilers and trying to contribute to GCC-Rust.<br>
 :hammer_and_wrench: - Enjoy exploring and reading how newer technologies overcome old problems.<br>
-:yum: Fun Fact - I should be looking for a job by now :D<br>
+:yum: Fun Fact - I am a jack in a lot of trades :D<br>
 
 ### Github Stats
 
