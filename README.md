@@ -10,6 +10,15 @@
 :hammer_and_wrench: - Enjoy exploring and reading how newer technologies overcome old problems.<br>
 :yum: Fun Fact - I am a jack in a lot of trades :D<br>
 
+### My Open Source Contributions
+- **GCC Rust**
+    - [1993](https://github.com/Rust-GCC/gccrs/pull/1933)
+    - [1776](https://github.com/Rust-GCC/gccrs/pull/1776)
+    - [1810](https://github.com/Rust-GCC/gccrs/pull/1810)
+    - [1778](https://github.com/Rust-GCC/gccrs/pull/1778)
+- **Geany**
+    - [3365](https://github.com/geany/geany/pull/3365)
+
 ### Github Stats
 
 <table>
