@@ -19,6 +19,13 @@
 - **Geany**
     - [3365](https://github.com/geany/geany/pull/3365)
 
+### My Projects
+- [**bookhub**](https://github.com/00AR/bookhub) - React app
+- [**Rialto**](https://github.com/00AR/rialto) - Django app
+- [**Notes App**](https://github.com/00AR/notes_app) - Django-React app
+- [**Admin Dashboard**](https://github.com/00AR/admin-dashboard) - MERN app
+- [**Audio-Dashboard**](https://github.com/00AR/audio_dashboard) - Django CRUD app
+
 ### Github Stats
 
 <table>
