@@ -3,11 +3,11 @@
 <!--
 **00AR/00AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Software Engineer
+### I am a Software Engineer
 
-:office: - I am a final Year student pursuing a Masters in Computer Applications.<br>
+:office: - I have a Masters in Computer Applications.<br>
 :hammer_and_wrench: - Enjoy exploring and reading how newer technologies overcome old problems.<br>
-:trophy: - I can explore any codebase even without a documentation and make meaningful changes.<br>
+:trophy: - I like exploring large codebases.<br>
 :yum: Fun Fact - I killed the [Out Of Memory(OOM)](https://docs.memset.com/cd/Linux%27s-OOM-Process-Killer.199066633.html) killer of Ubuntu.🥲 And the issue at hand was resolved 😆  <br>
 
 ### My Open Source Contributions
