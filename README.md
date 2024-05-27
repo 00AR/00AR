@@ -6,8 +6,8 @@
 ### I am a Software Engineer
 
 :office: - I have a Masters in Computer Applications.<br>
-:hammer_and_wrench: - Enjoy exploring and reading how newer technologies overcome old problems.<br>
-:trophy: - I like exploring large codebases.<br>
+:hammer_and_wrench: - Enjoys exploring and reading about how newer technologies surpass the limits of previous technologies.<br>
+:trophy: - have made significant contributions to several open source projects.<br>
 :yum: Fun Fact - I killed the [Out Of Memory(OOM)](https://docs.memset.com/cd/Linux%27s-OOM-Process-Killer.199066633.html) killer of Ubuntu.🥲 And the issue at hand was resolved 😆  <br>
 
 ### My Open Source Contributions
@@ -20,7 +20,9 @@
     - [1778](https://github.com/Rust-GCC/gccrs/pull/1778)
 
 ### My Projects
+- [**Semantic Search Engine**](https://github.com/00AR/semantic_search) LLM and FastAPI app
 - [**bookhub**](https://github.com/00AR/bookhub) - React app
+- [**Blog Platform Api**](https://github.com/00AR/blog_app) FastAPI app 
 - [**Rialto**](https://github.com/00AR/rialto) - Django app
 - [**Notes App**](https://github.com/00AR/notes_app) - Django-React app
 - [**Admin Dashboard**](https://github.com/00AR/admin-dashboard) - MERN app
